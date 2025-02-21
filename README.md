@@ -20,4 +20,8 @@ The dataset is ideal for machine learning models, data analysis, and trend predi
 
 ## DASHBOARD
 ![image](https://github.com/user-attachments/assets/7a1cd187-3b6c-4d26-8a87-305b8142e2f0)
-### Basic KPIs with
+### Basic KPIs with a scatter chart where you can play via the Year the startup founded.  
+see how the country/industry perform throughout the years.
+![image](https://github.com/user-attachments/assets/af818f02-9dd4-417a-9530-d8dea4144698)
+### Combo chart to see the relationship between the fundings/valuation and Investor/investments with the country/Industry.
+
