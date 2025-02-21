@@ -17,3 +17,7 @@ The dataset is ideal for machine learning models, data analysis, and trend predi
 - Country: Country where the startup is based
 - Year Founded: Year when the startup was founded
 - Growth Rate (%): Annual growth rate percentage
+
+## DASHBOARD
+![image](https://github.com/user-attachments/assets/7a1cd187-3b6c-4d26-8a87-305b8142e2f0)
+### Basic KPIs with
