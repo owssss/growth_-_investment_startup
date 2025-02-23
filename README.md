@@ -25,3 +25,8 @@ see how the country/industry perform throughout the years.
 ![image](https://github.com/user-attachments/assets/af818f02-9dd4-417a-9530-d8dea4144698)
 ### Combo chart to see the relationship between the fundings/valuation and Investor/investments with the country/Industry.
 
+## A Dashboard should.
+- tell the distribution of investments across industries
+- tell the distributions of fundings across the indudtries
+- industries with the highest valuations 
+
